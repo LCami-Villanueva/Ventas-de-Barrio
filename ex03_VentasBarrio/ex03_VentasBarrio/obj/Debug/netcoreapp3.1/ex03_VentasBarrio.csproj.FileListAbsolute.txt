@@ -1,0 +1,5 @@
+C:\Users\BK001\source\repos\ex03_VentasBarrio\ex03_VentasBarrio\obj\Debug\netcoreapp3.1\ex03_VentasBarrio.csproj.AssemblyReference.cache
+C:\Users\BK001\source\repos\ex03_VentasBarrio\ex03_VentasBarrio\obj\Debug\netcoreapp3.1\ex03_VentasBarrio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK001\source\repos\ex03_VentasBarrio\ex03_VentasBarrio\obj\Debug\netcoreapp3.1\ex03_VentasBarrio.AssemblyInfoInputs.cache
+C:\Users\BK001\source\repos\ex03_VentasBarrio\ex03_VentasBarrio\obj\Debug\netcoreapp3.1\ex03_VentasBarrio.AssemblyInfo.cs
+C:\Users\BK001\source\repos\ex03_VentasBarrio\ex03_VentasBarrio\obj\Debug\netcoreapp3.1\ex03_VentasBarrio.csproj.CoreCompileInputs.cache
